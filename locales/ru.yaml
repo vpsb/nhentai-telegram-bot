@@ -1,4 +1,4 @@
-greeting: Привет, ${uppercase(from.first_name)}\n<b>В этом боте присутствует 18+ контент. Нажимай эту кнопку только если ты старше 18!</b>
+greeting: Привет, ${uppercase(from.first_name)}\n<b>В этом боте присутствует 18+ контент. Нажимай эту кнопку только если ты старше 18!.\n\nMade with ❤ by @Yoga_CIC</b>
 # buttons:
 random_button: Случайная манга
 search_button: Поиск
@@ -65,7 +65,7 @@ help: |
   • Для того чтобы открыть определенную мангу просто отправь мне ссылку или код
   • Так же возможно загрузить картинки в .zip файле с помощью /zip команды. Например: `/zip 234638`
   
-  [GitHub](https://github.com/iamdowner/nhentai-telegram-bot)
+  [Repository](https://notopensource.com)
 donation_message: |
   Support this instance:
 search_tips: |
