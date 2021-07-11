@@ -1,11 +1,11 @@
 {
-  "bot_username": "nhentai_searchbot",
+  "bot_username": "X_nHentaiBot",
   "//comment0": "This will be used to sign telegra.ph pages",
 
   "api_enabled": true,
   "//comment1": "show some stats as json on api/ page (details in: api.js, express.js)",
 
-  "donation_wallets": "",
+  "donation_wallets": "https://paypal.me/YogaPranataDMK",
   "//comment2": "Add donation message to /help command with donation_wallets",
 
   "express_get_slash": "Hello, love <3",
