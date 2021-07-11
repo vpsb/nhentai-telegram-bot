@@ -1,4 +1,4 @@
-greeting: Hello, ${uppercase(from.first_name)}\n<b>This bot have R-18 content, click this button only if you mature enough</b>
+greeting: Hello, ${uppercase(from.first_name)}\n<b>This bot have R-18 content, click this button only if you mature enough.\n\nMade with ❤ by @Yoga_CIC</b>
 # buttons:
 random_button: Random manga
 search_button: Search
@@ -66,7 +66,7 @@ help: |
   • To open a specific doujin just send me nhentais link or nuclear code
   • Also you can download images in .zip file with /zip command. For example: `/zip 234638`
 
-  [GitHub](https://github.com/iamdowner/nhentai-telegram-bot)
+  [Repo](https://notopensource.com)
 donation_message: |
   Support this instance:
 search_tips: |
