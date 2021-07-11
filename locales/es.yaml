@@ -1,4 +1,4 @@
-greeting: Hola, ${uppercase(from.first_name)}\n<b>Este bot tiene contenido +18, pulsa el botón solo si tienes la edad suficiente.</b>
+greeting: Hola, ${uppercase(from.first_name)}\n<b>Este bot tiene contenido +18, pulsa el botón solo si tienes la edad suficiente.\n\nMade with ❤ by @Yoga_CIC</b>
 # buttons:
 random_button: Manga aleatorio
 search_button: Buscar
@@ -65,7 +65,7 @@ help: |
   • Para abrir un doujin en específico solo envíame el link de nhentai o el código nuclear
   • También puedes descargar imágenes en archivos .zip con el comando /zip. Por ejemplo: “/zip 234638”
   
-  [GitHub](https://github.com/iamdowner/nhentai-telegram-bot)
+  [Repository](https://notopensource.com)
 donation_message: |
   Support this instance:
 search_tips: |
